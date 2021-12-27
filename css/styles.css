@@ -1,0 +1,17 @@
+body {
+  background-color: ivory;
+  color: red;
+}
+
+body a {
+  color: inherit;
+}
+
+/*
+li {
+  color: teal;
+}*/
+
+li:hover {
+  color: green;
+}
